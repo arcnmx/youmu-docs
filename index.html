@@ -11,7 +11,7 @@
 			{% for crate in site.data.crates %}
 			<li>
 			<b>
-				<a href="{{ crate.package }}/{{ crate.package | replace: '-', '_' }}">{{name}}</a>
+				<a href="{{ crate.package }}/{{ crate.package | replace: '-', '_' }}">{{ crate.package }}</a>
 			</b>
 			{% endfor %}
 		</ul>
