@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Region","Creates an isolated segment of an underlying stream."]]});

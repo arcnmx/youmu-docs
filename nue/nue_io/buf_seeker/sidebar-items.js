@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["BufSeeker","A buffered reader that allows for seeking within the buffer."]]});
