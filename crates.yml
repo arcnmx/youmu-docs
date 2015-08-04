@@ -1,8 +1,3 @@
-- package: nue
-- package: resize-slice
-- package: pipe
-- package: thread-scoped
-- package: serde
-- package: hyper
-- package: rustc-serialize
 - package: dotenv
+- package: nue
+  include-deps: true
