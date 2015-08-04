@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DotenvError",""]],"fn":[["dotenv","This is usually what you want. It loads the .env file located in the same directory as the current executable."],["from_filename","Loads the specified file from the same directory as the current executable."],["from_path","Loads the file at the specified path."]]});
