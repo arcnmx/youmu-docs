@@ -5,3 +5,4 @@
 - package: serde
 - package: hyper
 - package: rustc-serialize
+- package: dotenv
