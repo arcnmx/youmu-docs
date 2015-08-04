@@ -1,9 +1,6 @@
 - package: hyper
-  version: ^0.6
-  default-features: false
-  features:
-      - ssl
-  include-deps: false
-
 - package: rustc-serialize
-  url: git+https://github.com/rust-lang/rustc-serialize
+- package: nue
+- package: resize-slice
+- package: pipe
+- package: thread-scoped
