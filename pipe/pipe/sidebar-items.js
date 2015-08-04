@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["pipe","Creates a synchronous memory pipe"]],"struct":[["PipeReader","The `Read` end of a pipe (see `pipe()`)"],["PipeWriter","The `Write` end of a pipe (see `pipe()`)"]]});
