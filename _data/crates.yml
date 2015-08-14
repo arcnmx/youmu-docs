@@ -1,4 +1,3 @@
 - package: dotenv
-- package: serde
 - package: nue
   include-deps: true
